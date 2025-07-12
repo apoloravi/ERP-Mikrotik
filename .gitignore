@@ -1,0 +1,13 @@
+# Ignorar arquivos sensíveis
+/app/config/credentials.php
+.env
+/vendor/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.cache
+
+# Ignorar configurações de IDE
+.idea/
+.vscode/
